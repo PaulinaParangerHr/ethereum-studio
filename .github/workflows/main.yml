@@ -1,0 +1,19 @@
+name: CI  Papi
+
+on: [push]  PPV
+
+jobs:  ON GOIN
+
+  build:
+  
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: PP
+    - name: Run a one-line script
+      run:  Hello, world!
+    - name: Run a multi-line script
+      run: |
+        Coin Add other actions to build,
+         merge , and deploy your project.
